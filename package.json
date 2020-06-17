@@ -1,0 +1,27 @@
+{
+  "name": "liri_bot",
+  "version": "1.0.0",
+  "description": "Liri Bot",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellogoodbyemae/LIRI_Bot.git"
+  },
+  "keywords": [
+    "liri"
+  ],
+  "author": "Margaret Egner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellogoodbyemae/LIRI_Bot/issues"
+  },
+  "homepage": "https://github.com/hellogoodbyemae/LIRI_Bot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bandsintown": "^1.0.1",
+    "node-spotify-api": "^1.1.1"
+  }
+}
