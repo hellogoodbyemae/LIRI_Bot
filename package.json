@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/hellogoodbyemae/LIRI_Bot#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bandsintown": "^1.0.1",
     "node-spotify-api": "^1.1.1"
   }
